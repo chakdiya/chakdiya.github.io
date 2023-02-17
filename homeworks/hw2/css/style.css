@@ -1,0 +1,11 @@
+body {
+    font-family: Karla, sans-serif;
+    color: #484848;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
